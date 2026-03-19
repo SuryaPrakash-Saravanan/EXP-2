@@ -62,11 +62,16 @@ Calculation:
 
 Open circuit characteristics
 ![IMG_1076](https://github.com/user-attachments/assets/5f0bc543-6c7b-4810-b656-2a0fcf2aea24)
+<img width="1041" height="895" alt="Screenshot 2026-03-19 203224" src="https://github.com/user-attachments/assets/dbc269a4-6de6-434b-97ed-64284b32ada1" />
+
 
 
   
 Load Characteristics:
 ![IMG_1077](https://github.com/user-attachments/assets/f280a3d2-dc70-4aaf-b92b-17dd1d894eda)
+<img width="1121" height="877" alt="Screenshot 2026-03-19 204110" src="https://github.com/user-attachments/assets/92c3b822-99fb-4953-8d5f-142b3c3c006e" />
+
+
 
  
 Result:
